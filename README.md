@@ -1,6 +1,8 @@
 # Portfolio
 This is my portfolio where I will update my projects.
 
+Certificates and honorable mentions include some certificates that I have gotten from MOOC and Suomen Ekonomit (Finland Economics). Honorable mentions are from my student association Dumppi ry. Mentions are the tutor of the year diploma and the MVD (Most Valuable Dumppari) diploma. The last diploma can be seen when you click the "More Pages" button at the end of the document.
+
 # 1. Fossil Analysis
 
 Fossil analysis is my final project from the University of Helsinki MOOC course "Data Analysis with Python". In the project I fetch fossil data from the "New and Old Worlds" database, then I clean the data and perform different analysis methods on it. From the Fossil analysis folder, you can find everything related to the project. Raw data pulled from the database is in the .txt file and more cleaned data is in the .csv file. The project was done in Jupyter Notebook and analysis results can be seen at the end of the .ipnynb file. The whole project assignment and steps can be seen in the .pdf file in the Fossil Analysis folder.
